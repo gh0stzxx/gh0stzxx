@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-### operating systems / distro that I use
+### operating systems/distro that I use
 
 - Windows 10
 - Kali Linux
