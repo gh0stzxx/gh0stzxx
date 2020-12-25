@@ -9,6 +9,14 @@
 - 🌱 I’m currently learning everything about everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+
+### operating systems / distro that I use
+
+- Windows 10
+-Kali Linux
+-Ubuntu
+
+
 ### Languages and Tools:
 
 <img align="left" src = 'https://raw.githubusercontent.com/1M0d3m/1M0d3m/main/images/vscode.png' width='30'/> <img align="left" src = 
