@@ -4,7 +4,7 @@
 
 ## I'm a Ethical Hacking Student!
 
-- 🔭 I'n currently working on school
+- 🔭 I'n currently working alone
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
