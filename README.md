@@ -13,8 +13,8 @@
 ### operating systems / distro that I use
 
 - Windows 10
--Kali Linux
--Ubuntu
+- Kali Linux
+- Ubuntu
 
 
 ### Languages and Tools:
