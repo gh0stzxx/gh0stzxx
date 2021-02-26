@@ -1,6 +1,6 @@
 ### I'm Gh0stzxx <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/X5V6M2j7rV?theme=light)](https://discord.gg/X5V6M2j7rV)
+
 
 ## I'm a Ethical Hacking Student!
 
